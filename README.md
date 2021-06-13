@@ -1,3 +1,7 @@
+## Sujay Murthy
+
+I am a student in Civil & Environmental Engineering at [Carnegie Mellon University](https://www.cmu.edu/cee/).
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
