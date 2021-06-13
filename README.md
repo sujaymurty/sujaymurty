@@ -2,6 +2,11 @@
 
 I am a student in Civil & Environmental Engineering at [Carnegie Mellon University](https://www.cmu.edu/cee/).
 
+### Education
+
+* **BS** in _Geology_ (2020)
+
+![](https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1179819834307039238%2FmhflsVfY.jpg&signature=dd78cbe42755f4e2a5e211b89f7c5084)
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
